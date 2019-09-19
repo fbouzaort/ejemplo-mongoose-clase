@@ -1,4 +1,4 @@
 {
-    "port": 3000,
-    "mongo_url": "mongodb+srv://rigomen:rigomenchu@cluster0-8kyri.mongodb.net/test?retryWrites=true&w=majority"
+  "port": 3000,
+  "mongo_url": "mongodb+srv://rigomen:rigomenchu@cluster0-8kyri.mongodb.net/test?retryWrites=true&w=majority"
 }
